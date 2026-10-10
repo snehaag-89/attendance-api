@@ -1,4 +1,5 @@
 .venv/
 .env
 __pycache__/
-check_explain.pyPROBLEM_STATEMENT.docx
+check_explain.py
+PROBLEM_STATEMENT.docx
